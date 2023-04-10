@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Full-Stack Web Developer with experience in creating web services and full-stack applications. I am interested in software architecture design and always strive to implement the appropriate architecture.
 
 ## 🌐 Socials:
@@ -17,7 +17,6 @@ I am a Full-Stack Web Developer with experience in creating web services and ful
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isaachsanu&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=isaachsanu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaachsanu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
   ## 💰 You can help me by Donating
